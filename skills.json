@@ -1,6 +1,0 @@
-{
-    "data scientist": ["python", "pandas", "numpy", "machine learning", "deep learning", "sql"],
-    "web developer": ["html", "css", "javascript", "react", "django", "python"],
-    "android developer": ["java", "kotlin", "android studio", "xml"],
-    "ai engineer": ["python", "tensorflow", "pytorch", "nlp", "computer vision"]
-}
