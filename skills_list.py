@@ -1,0 +1,31 @@
+skills_data = {
+  "web developer": [
+    "html", "css", "javascript", "react", "nodejs", "express", "django",
+    "python", "sql", "bootstrap", "git", "api", "rest api"
+  ],
+  "frontend developer": [
+    "html", "css", "javascript", "react", "redux", "bootstrap",
+    "tailwind", "git", "ui", "ux"
+  ],
+  "backend developer": [
+    "python", "django", "flask", "nodejs", "express", "sql",
+    "api", "rest api", "git"
+  ],
+  "data scientist": [
+    "python", "pandas", "numpy", "matplotlib", "seaborn",
+    "machine learning", "deep learning", "sql",
+    "statistics", "data visualization"
+  ],
+  "ai engineer": [
+    "python", "tensorflow", "pytorch", "machine learning",
+    "deep learning", "nlp", "computer vision", "data preprocessing"
+  ],
+  "android developer": [
+    "java", "kotlin", "android studio", "xml", "firebase",
+    "rest api", "git"
+  ],
+  "data analyst": [
+    "excel", "sql", "python", "pandas", "tableau",
+    "power bi", "data visualization", "statistics"
+  ]
+}
